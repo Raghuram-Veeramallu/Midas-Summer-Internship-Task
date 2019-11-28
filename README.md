@@ -2,4 +2,10 @@
 
 #### Summer Internship Task for IIIT Delhi
 
+**Python Problem:**
+
+
+**NLP Problem:**
+
+**CV Problem:**
 
